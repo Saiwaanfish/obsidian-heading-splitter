@@ -1,0 +1,9 @@
+{
+  "id": "heading-splitter",
+  "name": "Heading Splitter",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.8",
+  "description": "Split the active note by H1, H2, or H3 into new notes inside a subfolder named after the source note.",
+  "author": "Perplexity",
+  "isDesktopOnly": false
+}
